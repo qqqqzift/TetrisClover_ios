@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'TetrisClover_ios' target in the 'TetrisClover_ios' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
